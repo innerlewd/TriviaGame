@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+#title {
+    text-align: center;
+    color: gold;
+}
+#timer {
+    text-align: center;
+    color: gold;
+}
+#question,
+#score {
+    text-align: center;
+    color: gold;
+}
+answers {
+    margin-left: 400px;
+    color: gold;
+    border: 50px;
+}
+#option1,
+#option2,
+#option3,
+#option4 {
+    margin: 10px;
+}
+#logo {
+    height: 100px;
+    width: 200px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
